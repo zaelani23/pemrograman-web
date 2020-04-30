@@ -1,0 +1,219 @@
+	.jumbotron {
+        background-image: url(img1/bg-prambanan.jpg);
+        background-attachment: fixed;
+        background-size: cover;
+        height: 650px;
+        border-radius: 0 !important; 
+
+
+    }
+    .img-fluid{
+    	height: 25%;
+    }
+    .visitgo{
+    	height: 15%;
+    }
+
+    .img-negara{
+    	height: 50px;
+    	margin-top: 250px;
+
+    }
+    .btn{
+    	border-radius: 0px;
+    	font-family: sans-serif;
+		font-size: 10pt;
+    }
+
+	.tdm-btn-text{
+		border-radius: 0px;
+		font-family: sans-serif;
+		font-size: 12pt;
+
+	}
+	
+	.w1
+	{
+		background-color: #33dae0;
+	}
+	.w2
+	{
+		background-color: #017d96;
+	}
+	.w3
+	{
+		background-color: #ed3667;
+	}
+	.w4
+	{
+		background-color: #d4ef37;
+	}
+	.w5
+	{
+		background-color: #6d6d6d;
+	}
+	.w6
+	{
+		background-color: #1aaf6f;
+	}
+	.w7
+	{
+		background-color: #e29b16;
+	}
+	.w8
+	{
+		background-color: #878ecd;
+	}
+	.card-img-top{
+		width: 30%;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 5px;
+	
+	}
+	.card{
+		margin: auto;
+		overflow: auto;
+		min-height: 300px;
+		min-width: 290px;
+		border-radius: 0px;
+
+	}
+	.a{
+		margin-top: 45px;
+	}
+	.b{
+		margin-top: 55px;
+	}
+	.c{
+		margin-top: 55px
+
+	}
+	.d{
+		margin-top: 50px
+	}
+	.e{
+		margin-top: 40px;
+	}
+	.f{
+		margin-top: 45px;
+	}
+	.g{
+		margin-top: 40px
+
+	}
+	.h{
+		margin-top: 35px
+	}
+	#agenda .btn{
+		border-radius: 0px;
+    	font-family: sans-serif;
+		font-size: 18pt;
+	}
+	.icon{
+		width: 25%;
+	}
+
+	#content .container-fluid{
+        background-color: #dedede;
+    }
+
+	#content .card{
+      	min-height: 300px;
+		min-width: 10px;
+		margin-right: 30px;
+	}
+	#content .w5{
+		background-image: url(img1/pantai.png);
+		background-size: cover;
+		opacity: 0.8;
+	}
+	#content .w6{
+		background-image: url(img1/gunung.png);
+		background-size: cover;
+		opacity: 0.8;
+	}
+	#content .w7{
+		background-image: url(img1/kraton.png);
+		background-size: cover;
+		opacity: 0.8;
+	}
+	#content .w8{
+		background-image: url(img1/tour.png);
+		background-size: cover;
+		opacity: 0.8;
+	}
+
+	#footer{
+		background-color: #308596
+	}
+	#footer .col-md-4{
+		margin-top: 80px;
+	}
+	.judulnya{
+		font-family: sans-serif;
+		border-radius: 10px;
+	}
+
+	#footer .tdm-title-line{
+		border: 1px solid red;
+		width: 200px;
+	}
+	.tdm-descr{
+		margin-top: 40px;
+	}
+	.footer {
+		padding: 0;
+		background-color: #308596
+
+	}
+
+	.tdm-svg2
+	{
+		opacity: 0.4;
+	}
+	.tdm-svg3{
+		opacity: 0.4;
+	}
+	.sosmed{
+		height: 50%;
+	}
+	.pKiri, .pKiri1, .pKiri2, .pKiri3{
+		opacity: 0;
+		transform: translate(0, 50px);
+		transition: 1s;
+	}
+	.pKiri.pMuncul, .pKiri1.pMuncul, .pKiri2.pMuncul, .pKiri3.pMuncul, .pK.pMuncul, .pK1.pMuncul, .pK2.pMuncul, .pK3.pMuncul{
+		opacity: 1;
+		transform: translate(0,0);
+	}
+	.pK{
+		opacity: 1;
+		transform: translate(0, 50px);
+		transition: 1s;
+		margin-top: 100px;
+	}
+	.pK1{
+		opacity: 1;
+		transform: translate(0, 50px);
+		transition: 1s;
+		margin-top: 100px;
+	}
+	.pK2{
+		opacity: 1;
+		transform: translate(0, 50px);
+		transition: 1s;
+		margin-top: 100px;
+	}
+	.pK3{
+		opacity: 1;
+		transform: translate(0, 50px);
+		transition: 1s;
+		margin-top: 70px;
+	}
+	.bawah{
+		margin-top: 1000px;
+	}
+
+
