@@ -1,0 +1,14 @@
+	.jumbotron {
+        background-image: url(img/lelang.jpg);
+        background-position: center;
+        height: 600px;
+         background-size: cover;
+        border-radius: 10px;
+      }
+      /*.display-4 {
+      	font-size: 60px;
+	    text-align: center;
+	    font-family: Yesteryear;
+	    font-weight: 400;
+	    font-style: normal;
+      }*/
